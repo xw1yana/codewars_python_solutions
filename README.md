@@ -1,4 +1,4 @@
-# Kata CodeWars denouements
+# Kata CodeWars Solutions
 
 This repository contains my solutions to problems (cat) from the CodeWars platform. Each file corresponds to a separate kata and contains code that is my solution to the corresponding problem.
 
